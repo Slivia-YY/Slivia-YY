@@ -1,21 +1,80 @@
-# Hi, I'm Canqi Qiu
+# Hi there! 👋 I'm Canqi Qiu
 
-I'm interested in building thoughtful tools that make communication and complex work easier to understand.
+I'm an AI engineering student who enjoys turning ideas into tools.
 
-## What I'm working on
+Rather than chasing every new model, I'm more interested in a long-term question:
 
-- [SayWhat ?](https://github.com/Slivia-YY/SayWhat), an English-first tool for turning vague workplace feedback into clear next steps.
-- Exploring practical AI-assisted products with clear boundaries and approachable design.
+> **How can AI help people understand, communicate, and think more effectively—not just automate tasks?**
 
-## Interests
+I enjoy looking for the underlying structure behind seemingly unrelated things. Sometimes that means reading research papers, sometimes analyzing human communication, and sometimes building AI applications. Different problems often share similar patterns, and discovering those patterns is what motivates me to build.
 
-- Human-centered software
-- Communication tools
-- Python, FastAPI, and web development
-- Product design and responsible AI
+---
 
-## Around GitHub
+## 🚀 What I'm Exploring
 
-I use this profile to share experiments and projects as I learn.
+My current interests include:
 
-Thanks for stopping by.
+- 🤖 AI Agents
+- 🧠 Human-AI Collaboration
+- 📚 Knowledge Discovery
+- ✍️ Scientific Writing Assistance
+- 🔍 Information Understanding
+- 💡 AI for Research & Creativity
+
+Although these topics look different, they all point toward one goal:
+
+> **Using AI to reduce cognitive complexity while preserving human judgment and creativity.**
+
+---
+
+## 🛠️ Projects
+
+I enjoy building small but practical tools that solve real problems.
+
+Some examples include:
+
+- **SayWhat** — Translate vague workplace conversations into clear action items and professional responses.
+- **RedPuzzle** — Explore hidden research opportunities by extracting structured knowledge from scientific literature.
+- *(More projects are always under construction...)*
+
+I don't build projects simply to demonstrate technology.
+
+I build them to test ideas.
+
+---
+
+## 💭 My Philosophy
+
+I believe technology should amplify human thinking rather than replace it.
+
+AI is most valuable when it helps people:
+
+- ask better questions,
+- discover hidden connections,
+- communicate more clearly,
+- and make more informed decisions.
+
+To me, AI is not just an answer generator.
+
+It's a thinking partner.
+
+---
+
+## 🌱 Currently Learning
+
+I'm continuously exploring:
+
+- Large Language Models
+- Agent Systems
+- Retrieval & Knowledge Graphs
+- AI Product Design
+- Human-Computer Interaction
+- Research Workflow
+
+---
+
+## 📫 Let's Connect
+
+I'm always happy to exchange ideas about AI, research, open source, or anything interesting.
+
+If one of my projects is helpful, feel free to leave a ⭐ or start a discussion.
